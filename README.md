@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @kexwin<br>👀 I’m interested in cybersecurity and penetration testing.<br>🌱 I’m currently a 2nd year CSE student.
+👋 Hi, I’m @kexwin<br>👀 I’m interested in cybersecurity and penetration testing.<br>🌱 I’m currently a Junior year CSE student.
 
 
 ## 🌐 Socials:
