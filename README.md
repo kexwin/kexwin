@@ -12,9 +12,6 @@ Hi, I’m @kexwin<br>I’m interested in cybersecurity, Bug Bounty programs and 
 ## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kexwin&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
-### Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ### Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=kexwin&limit=5&theme=prussian&combine_all_yearly_contributions=true)
 
